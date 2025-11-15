@@ -9,4 +9,4 @@ async function init() {
 }
 
 init();
-// gaga
+// gagagit config user.email
